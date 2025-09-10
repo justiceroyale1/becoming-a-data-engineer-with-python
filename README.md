@@ -7,10 +7,12 @@ I am currently learning Python with the goal of becoming a data engineer. This r
 ## Repository Structure
 
 - **[dictionaries](./dictionaries/)** - Working with Python dictionaries
+- **[fancier-output-formatting](./fancier-output-formatting/)** - Advanced string formatting and output techniques
 - **[functions](./functions/)** - Function definitions, parameters, and advanced function concepts
 - **[list-comprehensions](./list-comprehensions/)** - List comprehension examples and techniques
 - **[looping-techniques](./looping-techniques/)** - Various looping methods and patterns
 - **[match-statement](./match-statement/)** - Python match-case statement examples
+- **[modules](./modules/)** - Python module creation and import examples
 - **[sets](./sets/)** - Set operations and usage
 - **[stacks-queues](./stacks-queues/)** - Data structure implementations
 - **[tuples-sequences](./tuples-sequences/)** - Tuple and sequence operations
